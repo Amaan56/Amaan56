@@ -21,5 +21,5 @@ I can easily adapt to any technology if needed. I spend my free time reading boo
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan56&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Amaan56/Amaan56/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amaan56&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Amaan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amaan56&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Amaan's GitHub Stats" />
 </a>
